@@ -1,0 +1,15 @@
+C:\Users\rafae\DigitalInnovatioOne\bin\Debug\net6.0\DigitalInnovatioOne.exe
+C:\Users\rafae\DigitalInnovatioOne\bin\Debug\net6.0\DigitalInnovatioOne.deps.json
+C:\Users\rafae\DigitalInnovatioOne\bin\Debug\net6.0\DigitalInnovatioOne.runtimeconfig.json
+C:\Users\rafae\DigitalInnovatioOne\bin\Debug\net6.0\DigitalInnovatioOne.dll
+C:\Users\rafae\DigitalInnovatioOne\bin\Debug\net6.0\DigitalInnovatioOne.pdb
+C:\Users\rafae\DigitalInnovatioOne\obj\Debug\net6.0\DigitalInnovatioOne.csproj.AssemblyReference.cache
+C:\Users\rafae\DigitalInnovatioOne\obj\Debug\net6.0\DigitalInnovatioOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\DigitalInnovatioOne\obj\Debug\net6.0\DigitalInnovatioOne.AssemblyInfoInputs.cache
+C:\Users\rafae\DigitalInnovatioOne\obj\Debug\net6.0\DigitalInnovatioOne.AssemblyInfo.cs
+C:\Users\rafae\DigitalInnovatioOne\obj\Debug\net6.0\DigitalInnovatioOne.csproj.CoreCompileInputs.cache
+C:\Users\rafae\DigitalInnovatioOne\obj\Debug\net6.0\DigitalInnovatioOne.dll
+C:\Users\rafae\DigitalInnovatioOne\obj\Debug\net6.0\refint\DigitalInnovatioOne.dll
+C:\Users\rafae\DigitalInnovatioOne\obj\Debug\net6.0\DigitalInnovatioOne.pdb
+C:\Users\rafae\DigitalInnovatioOne\obj\Debug\net6.0\DigitalInnovatioOne.genruntimeconfig.cache
+C:\Users\rafae\DigitalInnovatioOne\obj\Debug\net6.0\ref\DigitalInnovatioOne.dll
